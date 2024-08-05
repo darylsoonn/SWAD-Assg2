@@ -10,4 +10,10 @@ public class Person
         this.name = name;
         this.age = age;
     }
+    public Person(string name, int age)
+    {
+        this.name = name;
+        this.age = age;
+    }
     // kieran test commit
+    //haiwen teset comit
